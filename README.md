@@ -1,16 +1,27 @@
-## Hi there 👋
+Hola, soy Franconex
 
-<!--
-**franconex/franconex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full-stack apasionado por crear soluciones web y de escritorio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias con las que trabajo:
+
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend: C# .NET, ASP.NET Core, Entity Framework
+- Base de datos: SQL Server, PostgreSQL (Supabase)
+- Herramientas: Git, GitHub, Axios, Zustand
+
+---
+
+Proyectos destacados:
+
+- FisioGestion - Sistema de gestion para clinica de fisioterapia
+  (Next.js + .NET 9 + Supabase)
+
+- Estructura-de-datos-grafos - Visualizador de grafos en C# Windows Forms
+
+- ApexCode - Landing page web
+
+---
+
+Contacto: https://github.com/franconex
